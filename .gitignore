@@ -4,3 +4,7 @@ test_x.csv
 test_y.csv
 train_x.csv
 train_y.csv
+venv/
+media/
+animation/
+*.pdf
