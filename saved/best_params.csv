@@ -1,0 +1,2 @@
+proj_width,proj_depth,proj_activation,fno_width,fno_blocks,fno_activation,decay_rate,clip_grad,mixed_training,add_noise,weight_decay,batch_size
+64,2,gelu,32,8,mish,0.999,False,mix3,none,0.01,32

@@ -8,3 +8,8 @@ venv/
 media/
 animation/
 *.pdf
+tuning.py
+*.sh
+*.out
+optuna_fno_results.csv
+fno_friction_optuna.db
