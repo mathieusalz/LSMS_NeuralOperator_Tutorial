@@ -7,9 +7,14 @@ train_y.csv
 venv/
 media/
 animation/
-*.pdf
 tuning.py
 *.sh
 *.out
 optuna_fno_results.csv
 fno_friction_optuna.db
+optuna_outputs/
+optuna_outputs_integrated_absolute_error_overfit/
+optuna_outputs_integrated_absolute_error_overfit_500epochs/
+saved/
+alt/
+*.png
